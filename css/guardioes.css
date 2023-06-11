@@ -1,0 +1,188 @@
+#marvel {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    border:5px solid yellow;
+}
+#marvel2 {
+    background-color: rgb(243, 243, 15);
+    color: black;
+    border: 5px solid black;
+    text-align: center;
+    font: 30px bolder Arial;
+}
+
+.oi1 {
+    background-color: red;
+    color: white;
+    border: 5px solid black;
+    text-align: center;
+}
+.vc1 {
+    background-color: brown;
+    color: white;
+    border: 5px solid black;
+    text-align: center;
+}
+
+.oi2 {
+    background-color: darkgreen;
+    color: white;
+    border: 5px solid black;
+    text-align: center;
+}
+.vc2 {
+    background-color: darkred;
+    color: white;
+    border: 5px solid black;
+    text-align: center;
+}
+
+.oi3{
+    background-color: grey;
+    color: white;
+    border: 5px solid black;
+    text-align: center;
+}
+.vc3 {
+    background-color: firebrick;
+    color: white;
+    border: 5px solid black;
+    text-align: center;
+}
+
+.oi4 {
+    background-color: orangered ;
+    color: white;
+    border: 5px solid black;
+    text-align: center;
+}
+.vc4 {
+    background-color:rgb(29, 6, 6);
+    color: white;
+    border: 5px solid black;
+    text-align: center;
+}
+
+.oi5 {
+    background-color: darkolivegreen;
+    color: white;
+    border: 5px solid black;
+    text-align: center;
+}
+.vc5 {
+    background-color:rgb(95, 182, 60) ;
+    color:white ;
+    border: 5px solid black;
+    text-align: center;
+}
+
+.oi6 {
+    background-color: greenyellow;
+    color: white;
+    border: 5px solid black;
+    text-align: center;
+}
+.vc6 {
+    background-color: rgb(33, 109, 23);
+    color:white;
+    border: 5px solid black;
+    text-align: center;
+}
+
+.oi7 {
+    background-color: blue;
+    color: white;
+    border: 5px solid black;
+    text-align: center;
+}
+.vc7 {
+    background-color: rgb(68, 64, 64);
+    color: white;
+    border: 5px solid black;
+    text-align: center;
+}
+
+.oi9 {
+    background-color: goldenrod;
+    color: white;
+    border: 5px solid black;
+    text-align: center;
+}
+.vc9 {
+    background-color: gold;
+    color: white;
+    border: 5px solid black;
+    text-align: center;
+}
+.img {
+    text-align: center;
+    background-color: black;
+    border: 10px solid yellow;
+    padding: 5px;
+    display: inline-block;
+}
+.titulo {
+    font: 36px bolder Arial;
+    text-align: center;
+    background-color: yellow;
+    color: black;
+    border: 5px solid black;
+
+}
+.text { 
+    font: 24px italic;
+}
+a {
+    display: block;
+    text-align: center;
+    font: 32px italic Arial;
+    color: white;
+    border: 5px solid yellow;
+    background-color: black;
+}
+.blocos {
+    border: 5px solid black;
+}
+.card {
+    width: 320px;
+    height: 870px;
+    display: inline-block;
+}
+.guardioes {
+    display: inline-block;
+    width: 300px;
+    height: 870px;
+    background-color: darkslategray;
+    border: 5px solid black;
+    padding: 5px;
+}
+.titulo1 {
+    text-align: center;
+    background-color: yellow;
+}
+.img1 {
+    display: inline-block;
+    background-color: yellow;
+}
+.text1 {
+    color:black;
+    background-color: yellow;
+    font-size: 24px;
+    text-align: center;
+}
+.conteudo1 {
+    display: inline-block;
+    background-color: white;
+    padding: 2px;
+    height: 900px;
+    padding: 10px;
+}
+.conteudo2 {    
+    display: inline-block;
+    background-color: white;
+    padding: 2px;
+    height: 900px;
+    padding: 10px;
+}

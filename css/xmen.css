@@ -1,0 +1,25 @@
+.img {
+    text-align: center;
+    background-color: black;
+    border: 10px solid red;
+    padding: 5px;
+    display: inline-block;
+}
+.titulo {
+    font: 36px bold Arial;
+    text-decoration: underline;
+    text-align: center;
+    background-color: black;
+    color: red;
+    border: 5px solid goldenrod;
+}
+.text {
+    font: 24px italic Arial;
+}
+
+.pagina {
+    display: block;
+    text-align: center;
+    border: 5px solid darkred;
+    font: 32px italic Arial;
+}

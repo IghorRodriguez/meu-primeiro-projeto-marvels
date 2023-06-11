@@ -326,3 +326,398 @@ a {
     border-top-right-radius: 8px;
     border-top-left-radius: 8px;
 }
+
+/* css knull será abreviado como kn */
+
+body {
+    background-color: rgb(252, 251, 251);
+}
+
+.knull {
+    text-align: center;
+    background-color: darkslategrey;
+    color: black;
+    border: 10px solid darkred;
+    box-sizing: border-box;
+    font: 36px bold Arial;
+}
+
+.deus {
+    text-align: center;
+    text-decoration: underline;
+    font: 32px bold Arial;
+    color: rgb(2, 0, 0);
+    border: 5px dashed darkred;
+    margin: 5px;
+}
+
+.knull1 {
+    text-align: center;
+    background-color:rgb(2, 0, 0);
+}
+
+.textkn {
+    font: 24px italic Arial;
+}
+
+.exercitokn {
+    text-align: center;
+    font: 32px bold Arial;
+    color: rgb(2, 0, 0);
+    border: 5px dashed darkred;
+    margin: 5px;
+}
+
+.knull2 {
+    text-align: center;
+    background-color:rgb(2, 0, 0);
+}
+
+.trevaskn {
+    text-align: center;
+    font: 32px bold Arial;
+    color: rgb(2, 0, 0);
+    border: 5px dashed darkred;
+    margin: 5px;
+}
+
+.knull3 {
+    text-align: center;
+    background-color:rgb(2, 0, 0);
+}
+
+.vilaokn {
+    text-align: center;
+    font: 32px bold Arial;
+    color: rgb(2, 0, 0);
+    border: 5px dashed darkred;
+    margin: 5px;
+}
+
+.knull4 {
+    text-align: center;
+    background-color:rgb(2, 0, 0);
+}
+
+.knull5 {
+    text-align: center;
+    background-color:rgb(2, 0, 0);
+}
+
+.paginakn {
+    display: block;
+    font-size: 30px;
+    color: darkslategrey;
+    text-align: center;
+}
+
+/* css ultron será abreviado como ut*/
+
+.ultron {
+    text-align: center;
+    background-color: goldenrod;
+    color: darkred;
+    border: 15px solid darkred;
+    font: 38px bold Arial;
+    padding: 10px;
+}
+
+.ultron1 {
+    text-align: center;
+    background-color: darkslategrey;
+    border: 5px solid black;
+}
+
+.textut {
+    font: 24px italic Arial;
+}
+
+.ultron2 {
+    text-align: center;
+    display: inline-block;
+    background-color: darkslategrey;
+    border: 27px solid black;
+    padding-right: 32px;    
+    padding-left: 32px;
+}
+
+.habilidadeut {
+    text-align: center;
+    background-color: darkviolet;
+    color: black;
+    font: 38px bold Arial;
+    border:10px solid darkblue
+}
+.poderesut {
+    
+    background-color: darkviolet;
+    border: 10px solid darkblue;
+
+}
+
+.poderut {
+    display: inline-block;
+    font: 24px italic Arial;
+    background-color: darkred;
+    border:5px solid darkorange;
+    color: white;
+    margin: opx;
+}
+
+.ultron3 {
+    text-align: center;
+    background-color: darkslategrey;
+    border: 5px solid black; 
+}
+
+.personalidadeut {
+    text-align: center;
+    background-color: darkgreen;
+    color: black;
+    font: 38px bold Arial;
+    border:10px solid darkorange;
+}
+
+.paginaut {
+    font-size: 32px;
+    display: block;
+    text-align: center;
+    font-family: Arial;
+}
+
+/* css Aniquilador será abreviado como an*/
+
+.vilaoan {
+    font: 38px italic Arial;
+    border: 15px solid darkgreen;
+    text-align: center;
+    text-decoration: underline;
+    padding: 8px;
+    background-color: blueviolet;
+}
+
+.aniquilador1 {
+    text-align: center;
+    background-color: black;
+    border: 15px solid darkgreen;
+}
+
+.textan {
+    font: 24px italic Arial;
+}
+
+.aniquilador2 {
+    text-align: center;
+    background-color: black;
+    border: 15px solid darkgreen;
+}
+
+.superan {
+    text-align: center;
+    background-color: darkgreen;
+    color: black;
+    font: 38px bold Arial;
+    border:10px solid blueviolet;
+}
+.poderesan {
+    background-color: blueviolet;
+    border: 10px solid darkgreen;
+
+}
+
+.poderan {
+    display: inline-block;
+    font: 24px italic Arial;
+    background-color: darkred;
+    border:5px solid darkorange;
+    color: white;
+    margin: opx;
+}
+.aniquilador3 {
+    text-align: center;
+    background-color: black;
+    border: 15px solid darkgreen;
+}
+
+.habilidadean {
+    font: 38px italic Arial;
+    border: 15px solid darkgreen;
+    text-align: center;
+    text-decoration: underline;
+    padding: 8px;
+    background-color: blueviolet;
+}
+
+.aniquilador4 {
+    text-align: center;
+    background-color: black;
+    border: 15px solid darkgreen;
+}
+
+.fraquezasan {
+    font: 38px italic Arial;
+    border: 15px solid darkgreen;
+    text-align: center;
+    text-decoration: underline;
+    padding: 8px;
+    background-color: blueviolet;
+}
+.aniquilador5 {
+    text-align: center;
+    background-color: black;
+    border: 15px solid darkgreen;
+}
+
+.paginaan {
+    font-size: 32px;
+    display: block;
+    text-align: center;
+    font-family: Arial;
+    color: darkgreen;
+}
+
+/* css Mephisto será abreviado como mp  */
+
+.demonmp {
+    text-align: center;
+    background-color: rgb(192, 12, 27);
+    font-size: 46px;
+}
+
+.maump {
+    text-align: center;
+    border: 5px;
+    border-style: dashed;
+    border-color: red;
+    font-weight: bold;
+    font-size: 32px;
+}
+.mephisto1 {
+    margin: auto ;
+    text-align: center;
+    background-color: black;
+}
+.textmp {
+    font-size: 24px;
+}
+.mephisto2{
+    text-align:center;
+    image-resolution: 200px;
+    background-color: black;
+}
+.habilidademp {
+    text-align: center;
+    border: 5px;
+    border-style: solid;
+    border-color: rgb(248, 1, 1);
+    background-color: rgb(7, 7, 7);
+    color: white;
+    font-weight: bold;
+    font-size: 32px;
+    text-decoration: underline;
+}
+.poderesmp {
+    text-align: left;
+    font-weight: bold;
+   
+}
+.poder1mp {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    font-size: 20px;
+    border-width: 10px; 
+    border-style: groove;
+    border-color: brown;
+}  
+.poder2mp {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    font-size: 20px;
+    border-width: 10px; 
+    border-style: groove;
+    border-color: brown;
+}
+.poder3mp {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    font-size: 20px;
+    border-width: 10px; 
+    border-style: groove;
+    border-color: brown;
+}
+.poder4mp {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    font-size: 20px;
+    border-width: 10px; 
+    border-style: groove;
+    border-color: brown;
+}
+.poder5mp {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    font-size: 20px;
+    border-width: 10px; 
+    border-style: groove;
+    border-color: brown;
+}
+.poder6mp {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    font-size: 20px;
+    border-width: 10px; 
+    border-style: groove;
+    border-color: brown;
+}
+.poder7mp {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    font-size: 20px;
+    border-width: 10px; 
+    border-style: groove;
+    border-color: brown;
+}
+.criacaomp {
+    text-align: center;
+    border: 5px;
+    border-style: dashed;
+    border-color: rgb(218, 3, 3);
+    background-color: rgb(247, 230, 4);
+    color: rgb(5, 5, 5);
+    font-weight: bold;
+    font-size: 32px;
+    text-decoration: underline;
+}
+.text3mp {
+    font-style: italic;
+    font-size: 24px;
+    text-align: left;
+}
+.mephisto3 {
+    background-color: black;
+    image-rendering: auto;
+    text-align: center;
+}
+.mephisto4 {
+    background-color: black;
+    image-rendering: auto;
+    text-align: center;
+}
+.inscrevamp {
+    font-size: 2px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-weight: bold;
+    background-color: gold;
+    color: black;
+}
+.refmp {
+    display: block;
+    text-align: center;
+    font-size: 32px;
+    font-family: Arial;
+    color: darkred;
+}
+
+/* css Thanos será abreviado como th*/
+
