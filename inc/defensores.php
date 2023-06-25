@@ -1,0 +1,62 @@
+<img class="img" src="img/defensores4.jpg" rcset style="width: 1305px; height: 400px;">
+<h1 class="titulo">Defensores</h1>
+<p class="text">Os Defensores é uma minissérie americana criada para Netflix por Douglas Petrie e Marco Ramirez, baseada na equipe homônima da Marvel Comics. Ela está situada no Universo Cinematográfico Marvel, compartilhando a continuidade com os filmes da franquia e é a conclusão de uma série de shows feitas pela Marvel e Netflix (Demolidor, Jessica Jones, Luke Cage, Punho de Ferro). A minissérie é produzida pela Marvel Television em parceria com a ABC Studios, com Ramirez servindo como showrunner.</p>
+<img class="img" src="img/defensores2.jpg" rcset style="width: 1305px; height: 400px;">
+<p class="text">Quando decidiu tornar Defensores o seu primeiro grande crossover, a Netflix tinha alguns desafios. Encaixar a história de quatro personagens diferentes, fazer com que eles funcionassem juntos, ser maior e mais impactante que as séries solo, entre outros. Nem todos os objetivos são concretizados, mas boa parte deles são cumpridos e dão certo valor ao seriado. A iniciativa dos heróis urbanos da Marvel juntos tem um saldo positivo, apesar de carregar algumas das mazelas de outros produtos da parceria com a Netflix como diálogos e cenas de ação pouco inspirados.</p>
+<p class="text">A forma como une todos os personagens principais enaltece o bom trabalho de universo compartilhado feito nas outras séries. Tudo que aconteceu em Jessica Jones, Demolidor, Luke Cage e Punho de Ferro tem consequência na história de Defensores. Ao longo dos oito episódios, o roteiro consegue resgatar momentos cruciais de outros seriados para dar ainda mais contexto à ameaça principal: o Tentáculo. Nesse aspecto geral, o texto funciona bem, buscando soluções plausíveis e reviravoltas interessantes - tanto da parte dos heróis quanto dos vilões. Há peso nos dilemas de ambos os lados, o que faz o antagonismo de Alexandra (Sigourney Weaver) parecer verdadeiro.</p>
+<p class="text">Do lado dos heróis, a química existe, mesmo que os diálogos entre os quatro sejam quase sempre previsíveis. As boas atuações de Charlie Cox e Kristen Ritter se destacam e a dupla se torna a melhor coisa do grupo. Um como o defensor mais perdido e perturbado, a outra como a heroína relutante e sarcástica. Luke e Danny atuam grande parte do tempo juntos e mostram que há algum potencial para uma série de Heróis de Aluguel, quadrinho famoso dos dois personagens. Apesar da mudança repentina de personalidade (de herói perdido e dramático para herói bem humorado e brincalhão), o Punho de Ferro funciona muito melhor aqui do que na série solo.</p>
+<p class="text">Muito disso se deve à importância que Defensores dá a Danny, já que ele é o elo principal com o Tentáculo. Em nenhum momento a real força do Punho é mostrada, mas ele se encaixa bem no quebra-cabeça que tem Elektra como peça mais importante. A vilã carrega o fan service em sua nova roupa e traz consigo a violência que é esperada de uma personagem tão bruta. Por outro lado, ela é mais uma a se prejudicar pelas cenas de ação mal coreografadas; assim como em Punho, Luke e Jessica. A situação não é triste como se viu em Punho de Ferro, mas não melhora tanto. O exagero nos movimentos e o pouco impacto que os golpes têm tornam cada luta uma dança cheia de acrobacias sem peso.</p>
+<img class="img" src="img/defensores3.jpg" rcset style="width: 1305px; height: 400px;">
+<p class="text">O visual da série tenta ambientar e transformar Nova York no quinto defensor, mas não tem tanto êxito. A fotografia usa cores diferentes para cada um dos heróis, mas esquece de explorar a cidade além das calçadas de Manhattan. Diferente de Luke Cage que, apesar dos pesares, caracterizou o Harlem e tem uma personalidade única, Defensores não é muito diferente de qualquer outra série que se passa na Big Apple. As transições com cortes rápidos do metrô também não ajudam, dando um ar de novela a algo que deveria ter uma narrativa mais natural e ágil, já que se passa num período pouco maior do que dez dias. Tecnicamente, Defensores não se destaca como Demolidor ou Cage, mas tem a seu favor uma boa linha de argumento para a união dos heróis, coadjuvantes e antagonistas.</p>
+<p class="text">Todos os personagens apresentados até aqui no universo Marvel/Netflix aparecem na série sem parecerem gratuitos. Pelo contrário, todos eles adicionam bons momentos e saem da história com mais bagagem para as novas temporadas solo. O que joga contra Defensores é a qualidade dos diálogos, que sempre luta para não parecer didático ou burocrático demais; especialmente as cenas do núcleo de Punho de Ferro e Luke Cage. Demolidor e Jessica Jones, como dito antes, se beneficiam pela atuação de Cox e Ritter, mas não conseguem elevar tanto o nível assim. O êxito vem mesmo com os quatro juntos conversando, de preferência, sem lutar. E mesmo que não faça sentido eles se questionarem da presença de magia e sobrenatural em um mundo que já conhece os Vingadores, os bate-papos do quarteto rende vários bons momentos.</p>
+<p class="text">Defensores é um conjunto dos acertos e erros da parceria Netflix/Marvel. O nível de grandeza das ameaças corresponde à realidade trazida pelos outros seriados e os quatro juntos funcionam bem - e em alguns casos até melhoram um personagem como Punho de Ferro, por exemplo. A história segue um bom conceito de união, traz bons vilões e uma trama concisa, mas escorrega nos diálogos e nas cenas de ação. Essas falhas fazem a série não se destacar como poderia, deixando-a atrás até de Demolidor, mas não chegam a estragar a experiência. A iniciativa de unir todos esses personagens deu certo e se ela servir como uma espécie de recomeço para uma nova fase destes heróis - levando em conta alguns defeitos primários cometidos nas histórias solo - melhor ainda. Assim, o futuro dos Defensores, unidos ou separados, pode ser ainda melhor.</p>
+<img class="img" src="img/defensores1.jpg" rcset style="width: 1305px; height: 400px;">
+<h1 id="marvel">Formação Original</h1>
+<p class="text">Como quase sempre acontece nas histórias em quadrinhos, é preciso uma grande ameaça para que diferentes super-heróis juntem suas forças. Não poderia ser diferente com os Defensores.</p>
+<p class="text">Visando impedir que entidades demoníacas extra-dimensionais chamadas "Os Imortais" invadissem a Terra, Doutor Estranho manipula Namor, o príncipe submarino, para que o ajudasse e se alia ao gigante esmeralda, Hulk. Juntos eles impedem os demônios e também o cientista alienígena Yandroth, que estava ameaçando o planeta com o dispositivo Omegatron.</p>
+<p class="text">Após essas batalhas, Namor e Hulk se desentenderam e juraram nunca mais trabalharem juntos. Contudo, Doutor Estranho conseguiu mantê-los juntos por mais um tempo. Dessa forma nasceu o grupo chamado Defensores. Mais tarde ainda contaria com a participação de Surfista Prateado como o quarto membro principal dessa equipe.</p>
+<p class="text">Os Defensores, ao contrário da famosa equipe de super-heróis, os Vingadores, jamais possuiu membros fixos. É uma equipe informal de heróis, sem ligação alguma ao Governo, nem mesmo possuem uma sede fixa. Por seu caráter não oficial, qualquer herói que ajudasse a equipe poderia ser considerado um Defensor, tendo uma alta rotatividade de integrantes.</p>
+<img class="img" src="img/defensores5.jpg" rcset style="width: 1305px; height: 400px;">
+<p class="text">Contudo, a equipe também possui a fama de que seus membros não possuem muita afeição entre si, o que explica a rotatividade. Os membros mais constantes da equipe são Doutor Estranho, Hulk, Namor e Surfista Prateado. Contudo, ao longo dos anos vários outros heróis já estiveram relacionados com esse grupo.</p>
+<p class="text">Uma das maiores ameaças já enfrentadas pelos Defensores foi uma outra equipe especialmente montada para para combater a forção original do grupo de heróis. Essa equipe se chamava de Ofensores, uma espécie de versão negativa dos próprios Defensores. Seus integrantes eram: Thaddeus Ross, o Hulk Vermelho; Barão Mordo, o mago das trevas; Tubarão-tigre, inimigo de Namor; e Terrax, arauto de Galactus.</p>
+<p class="text">Alguns dos membros originais saó\ Clea, a aprendiz de Doutor Estranho;Valquíria, a guerreira asgardiana;Gavião Arqueiro, também membro dos Vingadores;Nighthawk, um ex-vilão;Daimon Hellstrom, também conhecido como "Filho de Satã";Luke Cage, o super-herói de aluguel que logo se sentiu deslocado e abandonou o grupo;Jaqueta Amarela, uma das várias identidades heroicas do Dr. Hank Pym;Felina, uma antiga modelo que se transformou em super-heroína;Gárgula, um idoso preso no corpo de um demônio.</p>
+<img class="img" src="img/defensores6.jpg" rcset style="width: 1305px; height: 400px;">
+<p class="text">Netflix é a responsável pela mais recente revitalizada nesse grupo de heróis. Os heróis que integrarão a equipe no seriado serão Demolidor, Luke Cage, Jessica Jones e Punho de Ferro. A versão do seriado transforma os Defensores em uma equipe de heróis que enfrentam ameaças mais ao nível das ruas. Nada de ameaças interdimensionais e alienígenas como nos quadrinhos.</p>
+<p class="text">Talvez possamos esperar participações de outros personagens na composição da equipe, como a amiga de Jessica, Patsy Walker. Nos quadrinhos, Patsy é a identidade secreta da Felina, uma participante da equipe original. Outras personagens que podem se juntar aos Defensores são as Filhas do Dragão, dupla formada por Colleen Wing e Misty Knight. Ambas foram apresentadas nas séries do Punho de Ferro e Luke Cage, respectivamente.</p>
+<p class="text">Dentre os personagens da série, apenas Jessica Jones nunca havia se aliado aos Defensores nos quadrinhos. Os outros três participaram em momentos distintos da equipe, jamais interagindo juntos no grupo. Contudo, em agosto de 2017, em paralelo à estreia da série, um novo quadrinho dos defensores será lançado e a equipe também terá a mesma formação que os Defensores da Netflix.</p>
+<img class="img" src="img/defensores7.jpg" rcset style="width: 1305px; height: 400px;">
+<h1 class="titulo">Quem são os Defensores</h1>
+<div class="blocos">
+    <div class="conteudo">
+        <div class="card">   
+            <div class="defensores">
+                <img class="img1" src="img/demolidor.jpg" rcset style="width: 300px; height: 300px;">
+                <h1 class="titulo1">Demolidor</h1>
+                <p class="text1">Matthew Murdock, o advogado preferido de Hell’s Kitchen, já é veterano das séries Marvel / Netflix. O vigilante está acostumado a fazer justiça sozinho, mas vai ter de aprender a cooperar com os outros heróis.</p>
+            </div>
+        </div>  
+        <div class="card">
+            <div class="defensores">
+                <img class="img1" src="img/punho.jpg" rcset style="width: 300px; height: 300px;">
+                <h1 class="titulo1">Punho de Ferro</h1>
+                <p class="text1">Danny apareceu pela primeira vez na série Punho de Ferro, um homem perdido entre a tragédia, um reino místico e a realidade corporativa e cínica de Manhattan. Agora com um rumo definido.</p>
+            </div>
+        </div>
+        <div class="card">
+            <div class="defensores">
+                <img class="img1" src="img/luke.jpg" rcset style="width: 300px; height: 300px;">
+                <h1 class="titulo1">Luke Cage</h1>
+                <p class="text1">O homem mais forte de Harlem conquistou uma reputação invejável e mudou de vida desde que o vimos em Jessica Jones. Mas será que Luke vai querer fazer parte do mesmo time que Jessica?</p>
+            </div>
+        </div>
+        <div class="card">
+            <div class="defensores">        
+                <img class="img1" src="img/jones.jpg" rcset style="width: 300px; height: 300px;">
+                <h1 class="titulo1">Jessica Jones</h1>
+                <p class="text1">Provavelmente a personagem que menos queria ser uma super-heroína. Mas o destino heroico de Jessica Jones está longe de ter terminado com a morte de Kilgrave ainda mais como como membro dos Defensores.</p>
+            </div>
+        </div>
+    </div>
+</div>
+<br>
+<a href="?page=marvels.php">Acessar a Comunidade Nerd</a>

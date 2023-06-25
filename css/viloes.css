@@ -2,22 +2,22 @@ body {
     background-color: rgb(5, 5, 5);
 }
 
-.titulo1 {
+#titulo {
     background-color: rgb(250, 249, 249);
     color: rgb(68, 1, 1);
     text-align: center;
     border: 15px solid rgb(73, 1, 1);
-   font-size: 34px;
+    font-size: 34px;
 }
 
-.vilao {
+#vilao {
     display: inline-block;
     background-color: white;
     border: 21px solid darkred;
     box-sizing: border-box;
 }
 
-.card {
+#card {
     background-color: white;
     width: 320px;
     height: 300px;
@@ -25,13 +25,21 @@ body {
     border-top-right-radius: 8px;
     border-top-left-radius: 8px;
 }
+
+#vilao > #card > #character > img {
+    width: 320px;
+    height: 300px;
+}
+
+
 a {
+    display: block;
     color: red;
     font-size: 28px;
     text-align: center;
 }
 
-.knull {
+#character {
     display: inline-block;
     background-color: white;
     width: 320px;
@@ -40,378 +48,60 @@ a {
     border-top-left-radius: 8px;
 }
 
-.ultron {
-    display: inline-block;
-    background-color: white;
-    width: 320px;
-    height: 300px;
-    border-top-right-radius: 8px;
-    border-top-left-radius: 8px;
-}
-
-.aniquilador {
-    display: inline-block;
-    background-color: white;
-    width: 320px;
-    height: 300px;
-    border-top-right-radius: 8px;
-    border-top-left-radius: 8px;
-}
-
-.mephisto {
-    display: inline-block;
-    background-color: white;
-    width: 320px;
-    height: 300px;
-    border-top-right-radius: 8px;
-    border-top-left-radius: 8px;
-}
-
-.vilao2 {
-    display: inline-block;
-    background-color: white;
-    border: 20px solid darkred;
-}
-
-.card2 {
-    background-color: white;
-    width: 320px;
-    height: 300px;
-    display: inline-block;
-    border-top-right-radius: 8px;
-    border-top-left-radius: 8px;
-}
-
-.thanos{
-    display: inline-block;
-    background-color: white;
-    width: 320px;
-    height: 300px;
-    border-top-right-radius: 8px;
-    border-top-left-radius: 8px;
-}
-
-.beyonder{
-    display: inline-block;
-    background-color: white;
-    width: 320px;
-    height: 300px;
-    border-top-right-radius: 8px;
-    border-top-left-radius: 8px;
-}
-
-.hela {
-    display: inline-block;
-    background-color: white;
-    width: 320px;
-    height: 300px;
-    border-top-right-radius: 8px;
-    border-top-left-radius: 8px;
-}
-
-.kang {
-    display: inline-block;
-    background-color: white;
-    width: 320px;
-    height: 300px;
-    border-top-right-radius: 8px;
-    border-top-left-radius: 8px;
-}
-
-.vilao3 {
-    display: inline-block;
-    background-color: white;
-    border: 21px solid darkred;
-}
-
-.card3 {
-    background-color: white;
-    width: 320px;
-    height: 300px;
-    display: inline-block;
-    border-top-right-radius: 8px;
-    border-top-left-radius: 8px;
-}
-
-.fenix {
-    display: inline-block;
-    background-color: white;
-    width: 320px;
-    height: 300px;
-    border-top-right-radius: 8px;
-    border-top-left-radius: 8px;
-}
-
-.apocalipse {
-    display: inline-block;
-    background-color: white;
-    width: 320px;
-    height: 300px;
-    border-top-right-radius: 8px;
-    border-top-left-radius: 8px;
-}
-
-.destino {
-    display: inline-block;
-    background-color: white;
-    width: 320px;
-    height: 300px;
-    border-top-right-radius: 8px;
-    border-top-left-radius: 8px;
-}
-
-.carnificina {
-    display: inline-block;
-    background-color: white;
-    width: 320px;
-    height: 300px;
-    border-top-right-radius: 8px;
-    border-top-left-radius: 8px;
-}
-
-.vilao3 {
-    display: inline-block;
-    background-color: white;
-    border: 21px solid darkred;
-}
-
-.card3 {
-    background-color: white;
-    width: 320px;
-    height: 300px;
-    display: inline-block;
-    border-top-right-radius: 8px;
-    border-top-left-radius: 8px;
-}
-
-.graviton {
-    display: inline-block;
-    background-color: white;
-    width: 320px;
-    height: 300px;
-    border-top-right-radius: 8px;
-    border-top-left-radius: 8px;
-}
-
-.magneto {
-    display: inline-block;
-    background-color: white;
-    width: 320px;
-    height: 300px;
-    border-top-right-radius: 8px;
-    border-top-left-radius: 8px;
-}
-
-.maestro {
-    display: inline-block;
-    background-color: white;
-    width: 320px;
-    height: 300px;
-    border-top-right-radius: 8px;
-    border-top-left-radius: 8px;
-}
-
-.loki {
-    display: inline-block;
-    background-color: white;
-    width: 320px;
-    height: 300px;
-    border-top-right-radius: 8px;
-    border-top-left-radius: 8px;
-}
-.titulo {
-    text-align: center;
-    background-color: darkred;
-    border: 10px solid white;
-    color: aliceblue;
-    font-size: 38px;
-    text-decoration: underline;
-    font-weight: bold;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
-
-.subtitulo {
-    text-align: center;
-    font-size: 32px;
-    color: white;
-    font-family: Arial;
-    text-decoration: underline;
-}
-
-.text {
-    font: 24px italic;
-    text-align:center;
-    color: rgb(247, 245, 245);
-    font-family: Arial;
-}
-
-.img {
-    background-color: darkred;
-    padding: 20px 0px;
-}
-
-.inscricao {
-    color: white;
-    text-align: center;
-    font-family: Arial;
-    font-size: 24px;
-
-}
- 
-.comunidade {
-    color: white;
-    text-align: center;
-    font-family: Arial;
-}
-
-.inform {
-    text-align: center;
-    background-color: darkred;
-    color: white;
-    font-size: 28px;
-    font-family: 'Trebuchet MS';
-}
-
-.direcionamento {
-    text-align: center;
-}
-
-.vilao4 {
-    display: inline-block;
-    background-color: white;
-    border: 21px solid darkred;
-}
-
-.card4 {
-    background-color: white;
-    width: 320px;
-    height: 300px;
-    display: inline-block;
-    border-top-right-radius: 8px;
-    border-top-left-radius: 8px;
-}
-
-.evolucionario {
-    display: inline-block;
-    background-color: white;
-    width: 320px;
-    height: 300px;
-    border-top-right-radius: 8px;
-    border-top-left-radius: 8px;
-}
-
-.molecular {
-    display: inline-block;
-    background-color: white;
-    width: 320px;
-    height: 300px;
-    border-top-right-radius: 8px;
-    border-top-left-radius: 8px;
-}
-
-.dormammu {
-    display: inline-block;
-    background-color: white;
-    width: 320px;
-    height: 300px;
-    border-top-right-radius: 8px;
-    border-top-left-radius: 8px;
-}
-
-.dracula {
-    display: inline-block;
-    background-color: white;
-    width: 320px;
-    height: 300px;
-    border-top-right-radius: 8px;
-    border-top-left-radius: 8px;
-}
-
-/* css knull será abreviado como kn */
-
-body {
-    background-color: rgb(252, 251, 251);
-}
+/*Estilos CSS página Knull*/
 
 .knull {
     text-align: center;
     background-color: darkslategrey;
-    color: black;
+    color: white;
     border: 10px solid darkred;
     box-sizing: border-box;
     font: 36px bold Arial;
 }
 
-.deus {
+.knulldeus {
     text-align: center;
     text-decoration: underline;
     font: 32px bold Arial;
-    color: rgb(2, 0, 0);
+    color: white;
     border: 5px dashed darkred;
     margin: 5px;
 }
 
-.knull1 {
-    text-align: center;
-    background-color:rgb(2, 0, 0);
-}
-
-.textkn {
+.knulltext {
     font: 24px italic Arial;
+    color: white;
 }
 
-.exercitokn {
+.knullexercito {
     text-align: center;
     font: 32px bold Arial;
-    color: rgb(2, 0, 0);
+    color: white;
     border: 5px dashed darkred;
     margin: 5px;
 }
-
-.knull2 {
-    text-align: center;
-    background-color:rgb(2, 0, 0);
-}
-
-.trevaskn {
+.knulltrevas {
     text-align: center;
     font: 32px bold Arial;
-    color: rgb(2, 0, 0);
+    color: white;
     border: 5px dashed darkred;
     margin: 5px;
 }
-
-.knull3 {
-    text-align: center;
-    background-color:rgb(2, 0, 0);
-}
-
-.vilaokn {
+.knullvilao {
     text-align: center;
     font: 32px bold Arial;
-    color: rgb(2, 0, 0);
+    color: white;
     border: 5px dashed darkred;
     margin: 5px;
 }
-
-.knull4 {
-    text-align: center;
-    background-color:rgb(2, 0, 0);
-}
-
-.knull5 {
-    text-align: center;
-    background-color:rgb(2, 0, 0);
-}
-
-.paginakn {
+.knullpagina {
     display: block;
     font-size: 30px;
     color: darkslategrey;
     text-align: center;
 }
 
-/* css ultron será abreviado como ut*/
+/*Estilos CSS página ultron*/
 
 .ultron {
     text-align: center;
@@ -422,17 +112,18 @@ body {
     padding: 10px;
 }
 
-.ultron1 {
+.ultronimg {
     text-align: center;
     background-color: darkslategrey;
-    border: 5px solid black;
+    border: 5px solid white;
 }
 
-.textut {
+.ultrontext{
     font: 24px italic Arial;
+    color: white;
 }
 
-.ultron2 {
+.ultronblocos{
     text-align: center;
     display: inline-block;
     background-color: darkslategrey;
@@ -441,21 +132,21 @@ body {
     padding-left: 32px;
 }
 
-.habilidadeut {
+.ultronhabilidade {
     text-align: center;
     background-color: darkviolet;
     color: black;
     font: 38px bold Arial;
     border:10px solid darkblue
 }
-.poderesut {
+.ultronpoderes {
     
     background-color: darkviolet;
     border: 10px solid darkblue;
 
 }
 
-.poderut {
+.ultronpoder {
     display: inline-block;
     font: 24px italic Arial;
     background-color: darkred;
@@ -464,13 +155,7 @@ body {
     margin: opx;
 }
 
-.ultron3 {
-    text-align: center;
-    background-color: darkslategrey;
-    border: 5px solid black; 
-}
-
-.personalidadeut {
+.ultronpersonalidade {
     text-align: center;
     background-color: darkgreen;
     color: black;
@@ -478,16 +163,16 @@ body {
     border:10px solid darkorange;
 }
 
-.paginaut {
+.ultronpagina {
     font-size: 32px;
     display: block;
     text-align: center;
     font-family: Arial;
 }
 
-/* css Aniquilador será abreviado como an*/
+/*Estilos CSS página aniquilador*/
 
-.vilaoan {
+.aniquilador {
     font: 38px italic Arial;
     border: 15px solid darkgreen;
     text-align: center;
@@ -496,36 +181,31 @@ body {
     background-color: blueviolet;
 }
 
-.aniquilador1 {
+.aniquiladorimg {
     text-align: center;
     background-color: black;
     border: 15px solid darkgreen;
 }
 
-.textan {
+.aniquiladortext {
     font: 24px italic Arial;
+    color: white;
 }
 
-.aniquilador2 {
-    text-align: center;
-    background-color: black;
-    border: 15px solid darkgreen;
-}
-
-.superan {
+.aniquiladorsuper {
     text-align: center;
     background-color: darkgreen;
     color: black;
     font: 38px bold Arial;
     border:10px solid blueviolet;
 }
-.poderesan {
+.aniquiladorpoderes {
     background-color: blueviolet;
     border: 10px solid darkgreen;
 
 }
 
-.poderan {
+.aniquiladorpoder {
     display: inline-block;
     font: 24px italic Arial;
     background-color: darkred;
@@ -533,13 +213,7 @@ body {
     color: white;
     margin: opx;
 }
-.aniquilador3 {
-    text-align: center;
-    background-color: black;
-    border: 15px solid darkgreen;
-}
-
-.habilidadean {
+.aniquiladorhabilidade {
     font: 38px italic Arial;
     border: 15px solid darkgreen;
     text-align: center;
@@ -548,13 +222,7 @@ body {
     background-color: blueviolet;
 }
 
-.aniquilador4 {
-    text-align: center;
-    background-color: black;
-    border: 15px solid darkgreen;
-}
-
-.fraquezasan {
+.aniquiladorfraquezas {
     font: 38px italic Arial;
     border: 15px solid darkgreen;
     text-align: center;
@@ -562,13 +230,7 @@ body {
     padding: 8px;
     background-color: blueviolet;
 }
-.aniquilador5 {
-    text-align: center;
-    background-color: black;
-    border: 15px solid darkgreen;
-}
-
-.paginaan {
+.paginaaniquilador {
     font-size: 32px;
     display: block;
     text-align: center;
@@ -576,36 +238,33 @@ body {
     color: darkgreen;
 }
 
-/* css Mephisto será abreviado como mp  */
+/*Estilos CSS página mephisto*/ 
 
-.demonmp {
+.mephisto {
     text-align: center;
     background-color: rgb(192, 12, 27);
     font-size: 46px;
 }
 
-.maump {
+.mephistodemon {
     text-align: center;
     border: 5px;
     border-style: dashed;
     border-color: red;
     font-weight: bold;
     font-size: 32px;
+    color: white;
 }
-.mephisto1 {
+.mephistoimg {
     margin: auto ;
     text-align: center;
     background-color: black;
 }
-.textmp {
+.mephistotext {
     font-size: 24px;
+    color: white;
 }
-.mephisto2{
-    text-align:center;
-    image-resolution: 200px;
-    background-color: black;
-}
-.habilidademp {
+.mephistohabilidade {
     text-align: center;
     border: 5px;
     border-style: solid;
@@ -616,12 +275,12 @@ body {
     font-size: 32px;
     text-decoration: underline;
 }
-.poderesmp {
+.mephistopoderes {
     text-align: left;
     font-weight: bold;
    
 }
-.poder1mp {
+.mephistopoder1 {
     font-family: 'Courier New', Courier, monospace;
     text-align: left;
     font-size: 20px;
@@ -629,7 +288,7 @@ body {
     border-style: groove;
     border-color: brown;
 }  
-.poder2mp {
+.mephistopoder2 {
     font-family: 'Courier New', Courier, monospace;
     text-align: left;
     font-size: 20px;
@@ -637,7 +296,7 @@ body {
     border-style: groove;
     border-color: brown;
 }
-.poder3mp {
+.mephistopoder3 {
     font-family: 'Courier New', Courier, monospace;
     text-align: left;
     font-size: 20px;
@@ -645,7 +304,7 @@ body {
     border-style: groove;
     border-color: brown;
 }
-.poder4mp {
+.mephistopoder4 {
     font-family: 'Courier New', Courier, monospace;
     text-align: left;
     font-size: 20px;
@@ -653,7 +312,7 @@ body {
     border-style: groove;
     border-color: brown;
 }
-.poder5mp {
+.mephistopoder5 {
     font-family: 'Courier New', Courier, monospace;
     text-align: left;
     font-size: 20px;
@@ -661,7 +320,7 @@ body {
     border-style: groove;
     border-color: brown;
 }
-.poder6mp {
+.mephistopoder6 {
     font-family: 'Courier New', Courier, monospace;
     text-align: left;
     font-size: 20px;
@@ -669,7 +328,7 @@ body {
     border-style: groove;
     border-color: brown;
 }
-.poder7mp {
+.mephistopoder7 {
     font-family: 'Courier New', Courier, monospace;
     text-align: left;
     font-size: 20px;
@@ -677,7 +336,7 @@ body {
     border-style: groove;
     border-color: brown;
 }
-.criacaomp {
+.mephistocriacao {
     text-align: center;
     border: 5px;
     border-style: dashed;
@@ -688,30 +347,7 @@ body {
     font-size: 32px;
     text-decoration: underline;
 }
-.text3mp {
-    font-style: italic;
-    font-size: 24px;
-    text-align: left;
-}
-.mephisto3 {
-    background-color: black;
-    image-rendering: auto;
-    text-align: center;
-}
-.mephisto4 {
-    background-color: black;
-    image-rendering: auto;
-    text-align: center;
-}
-.inscrevamp {
-    font-size: 2px;
-    font-family: 'Courier New', Courier, monospace;
-    text-align: center;
-    font-weight: bold;
-    background-color: gold;
-    color: black;
-}
-.refmp {
+.paginamephisto {
     display: block;
     text-align: center;
     font-size: 32px;
@@ -719,5 +355,602 @@ body {
     color: darkred;
 }
 
-/* css Thanos será abreviado como th*/
+/*Estilos CSS página thanos*/ 
 
+.thanos {
+    font: 38px italic Arial;
+    background-color: darkmagenta;
+    border: 15px solid darkgoldenrod;
+    text-align: center;
+    padding: 8px;
+}
+.thanosimg {
+    background-color: darkmagenta;
+    border: 15px solid darkgoldenrod;
+    text-align: center;
+}
+
+.thanostext {
+    font: 24px italic Arial;
+    color: white;
+}
+
+.paginathanos {
+    font-size: 32px;
+    display: block;
+    text-align: center;
+    font-family: Arial;
+    background-color: darkmagenta;
+    color: white;
+}
+.thanossuper {
+    text-align: center;
+    background-color: darkmagenta;
+    color: black;
+    font: 38px bold Arial;
+    border:10px solid darkgoldenrod;
+}
+.thanospoderes {
+    background-color: darkmagenta;
+    border: 10px solid darkgoldenrod;
+
+}
+
+.thanospoder {
+    display: inline-block;
+    font: 24px italic Arial;
+    background-color: darkblue;
+    border:5px solid darkslategrey;
+    color: white;
+    margin: opx;
+}
+.thanoshabilidades {
+    font: 38px italic Arial;
+    background-color: darkmagenta;
+    border: 15px solid darkgoldenrod;
+    text-align: center;
+    padding: 8px;
+}
+
+
+/*Estilos CSS página beyonder*/ 
+
+.beyonder {
+    font: 38px italic Arial;
+    background-color: darkblue;
+    border: 15px solid darkslategrey;
+    text-align: center;
+    padding: 8px;
+    color: white;
+}
+.beyonderimg1 {
+    background-color: darkblue;
+    border: 15px solid darkslategrey;
+    text-align: center;
+    color: white;
+}
+
+.beyondertext {
+    font: 24px italic Arial;
+    color: white;
+}
+.beyonderimg2 {
+    display: inline-block;
+    text-align: center;
+    background-color: darkblue;
+    border: 53px solid darkslategrey;
+    padding: 10px;
+}
+.paginabeyonder {
+    font-size: 32px;
+    display: block;
+    text-align: center;
+    font-family: Arial;
+    background-color: darkblue;
+    color: white;
+}
+
+/*Estilos CSS página hela*/ 
+
+.hela {
+    font: 38px italic Arial;
+    background-color: green;
+    border: 15px solid black;
+    text-align: center;
+    padding: 8px;
+    color: white;
+}
+.helaimg1 {
+    background-color: green;
+    border: 15px solid black;
+    text-align: center;
+}
+
+.helatext {
+    font: 24px italic Arial;
+    color: white;
+}
+
+.paginahela {
+    font-size: 32px;
+    display: block;
+    text-align: center;
+    font-family: Arial;
+    background-color: green;
+    color: white;
+}
+.helaimg2 {
+    background-color: green;
+    border: 53px solid black;
+    display: inline-block;
+    padding: 10px;
+
+}
+.helasuper {
+    text-align: center;
+    background-color: green;
+    color: white;
+    font: 38px bold Arial;
+    border:10px solid black;
+}
+.helapoderes {
+    background-color: green;
+    border: 10px solid black;
+    color: white;
+
+}
+
+.helapoder {
+    display: inline-block;
+    font: 24px italic Arial;
+    background-color: darkolivegreen;
+    border:5px solid white;
+    color: black;
+    margin: opx;
+}
+
+/*Estilos CSS página kang*/ 
+
+.kang {
+    font: 38px italic Arial;
+    background-color: darkmagenta;
+    border: 15px solid green;
+    text-align: center;
+    padding: 8px;
+    color: white;
+}
+.kangimg1 {
+    background-color: darkmagenta;
+    border: 15px solid green;
+    text-align: center;
+}
+
+.kangtext {
+    font: 24px italic Arial;
+    color: white;
+}
+
+.paginakang {
+    font-size: 32px;
+    display: block;
+    text-align: center;
+    font-family: Arial;
+    background-color: darkmagenta;
+    color: white;
+}
+.kangsuper {
+    text-align: center;
+    background-color: darkmagenta;
+    color: white;
+    font: 38px bold Arial;
+    border:10px solid green;
+}
+.kangpoderes {
+    background-color: darkmagenta;
+    border: 10px solid green;
+    color: white;
+
+}
+
+.kangpoder {
+    display: inline-block;
+    font: 24px italic Arial;
+    background-color: darkgoldenrod;
+    border:5px solid darkslategrey;
+    color: white;
+}
+
+
+/*Estilos CSS página fenix negra*/ 
+
+.fenix  {
+    font: 38px italic Arial;
+    background-color: rgb(230, 197, 14);
+    border: 15px solid black;
+    text-align: center;
+    padding: 8px;
+    color: white;
+}
+.feniximg1 {
+    background-color: rgb(230, 197, 14);
+    border: 15px solid black;
+    text-align: center;
+}
+
+.fenixtext {
+    font: 24px italic Arial;
+    color: white;
+}
+
+.paginafenix {
+    font-size: 32px;
+    display: block;
+    text-align: center;
+    font-family: Arial;
+    background-color: rgb(230, 197, 14);
+    color: white(5, 5, 5);
+}
+
+/*Estilos CSS página apocalipse*/ 
+
+.apocalipse {
+    font: 38px italic Arial;
+    background-color: darkblue;
+    border: 15px solid black;
+    text-align: center;
+    padding: 8px;
+}
+.apocalipseimg1 {
+    background-color: darkblue;
+    border: 15px solid black;
+    text-align: center;
+    color: white;
+}
+
+.apocalipsetext {
+    font: 24px italic Arial;
+    color: white;
+}
+
+.paginaapocalipse {
+    font-size: 32px;
+    display: block;
+    text-align: center;
+    font-family: Arial;
+    background-color: darkblue;
+    color: white;
+}
+.apocalipseimg2 {
+    background-color: darkblue;
+    border: 35px solid black;
+    display: inline-block;
+    text-align: center;
+    padding: 28px;
+}
+
+/*Estilos CSS página destino*/ 
+
+.destino {
+    font: 38px italic Arial;
+    background-color: darkslategrey;
+    border: 15px solid darkgreen;
+    text-align: center;
+    padding: 8px;
+    color: white;
+}
+.destinoimg1 {
+    background-color: darkslategrey;
+    border: 15px solid darkgreen;
+    text-align: center;
+}
+
+.destinotext {
+    font: 24px italic Arial;
+    color: white;
+}
+
+.paginadestino {
+    font-size: 32px;
+    display: block;
+    text-align: center;
+    font-family: Arial;
+    background-color: darkslategrey;
+    color: white;
+}
+
+.destinotext1 {
+    text-align: center;
+    font-size: 30px italic Arial;
+    border: 4px solid black;
+    padding: 3px;
+    background-color: darkgoldenrod;
+}
+
+/*Estilos CSS página carnificina*/ 
+
+.carnificina {
+    font: 38px italic Arial;
+    background-color: darkred;
+    border: 15px solid black;
+    text-align: center;
+    padding: 8px;
+    color: white;
+}
+.carnificinaimg1 {
+    background-color: darkred;
+    border: 15px solid black;
+    text-align: center;
+}
+
+.carnificinatext {
+    font: 24px italic Arial;
+    color: white;
+}
+
+.paginacarnificina {
+    font-size: 32px;
+    display: block;
+    text-align: center;
+    font-family: Arial;
+    background-color: darkred;
+    color: white;
+}
+
+/*Estilos CSS página graviton*/ 
+
+.graviton {    
+    font: 38px italic Arial;
+    background-color: blue;
+    border: 15px solid darkslategrey;
+    text-align: center;
+    padding: 8px;
+}
+.gravitonimg1 {
+    background-color: blue;
+    border: 15px solid darkslategrey;
+    text-align: center;
+    color: white;
+}
+
+.gravitontext {
+    font: 24px italic Arial;
+    color: white;
+}
+
+.paginagraviton {
+    font-size: 32px;
+    display: block;
+    text-align: center;
+    font-family: Arial;
+    background-color:darkslategrey;
+    color: blue;
+}
+
+/*Estilos CSS página magneto*/ 
+
+.magneto {
+    font: 38px italic Arial;
+    background-color: darkmagenta;
+    border: 15px solid red;
+    text-align: center;
+    padding: 8px;
+    color: white;
+}
+.magnetoimg1 {
+    background-color: darkmagenta;
+    border: 15px solid red;
+    text-align: center;
+}
+
+.magnetotext {
+    font: 24px italic Arial;
+    color: white
+}
+
+.paginamagneto {
+    font-size: 32px;
+    display: block;
+    text-align: center;
+    font-family: Arial;
+    background-color: darkmagenta;
+    color:red;
+}
+
+/*Estilos CSS página maestro*/ 
+
+.maestro {
+    font: 38px italic Arial;
+    background-color: green;
+    border: 15px solid darkorchid;
+    text-align: center;
+    padding: 8px;
+    color: white;
+}
+.maestroimg1 {
+    background-color: green;
+    border: 15px solid darkorchid;
+    text-align: center;
+}
+
+.maestrotext {
+    font: 24px italic Arial;
+    color: white;
+}
+
+.paginamaestro {
+    font-size: 32px;
+    display: block;
+    text-align: center;
+    font-family: Arial;
+    background-color: green;
+    color: darkorchid;
+}
+
+/*Estilos CSS página loki*/ 
+
+.loki {
+    font: 38px italic Arial;
+    background-color: green;
+    border: 15px solid darkgoldenrod;
+    text-align: center;
+    padding: 8px;
+}
+.lokiimg1 {
+    background-color: green;
+    border: 15px solid darkgoldenrod;
+    text-align: center;
+}
+
+.lokitext {
+    font: 24px italic Arial;
+    color: white;
+}
+
+.paginaloki {
+    font-size: 32px;
+    display: block;
+    text-align: center;
+    font-family: Arial;
+    background-color: green;
+    color: darkgoldenrod;
+}
+.lokisuper {
+    text-align: center;
+    background-color: green;
+    color: white;
+    font: 38px bold Arial;
+    border:10px solid darkgoldenrod
+}
+.lokipoderes {
+    background-color: green;
+    border: 10px solid black;
+
+}
+
+.lokipoder {
+    display: inline-block;
+    font: 24px italic Arial;
+    background-color: darkgoldenrod;
+    border:5px solid green;
+    color: black;
+    margin: opx;
+}
+
+/*Estilos CSS página evolucionario*/ 
+
+.evolucionario {
+    font: 38px italic Arial;
+    background-color: darkmagenta;
+    border: 15px solid red;
+    text-align: center;
+    padding: 8px;
+    color: white;
+}
+.evolucionarioimg1 {
+    background-color: darkmagenta;
+    border: 15px solid red;
+    text-align: center;
+}
+
+.evolucionariotext {
+    font: 24px italic Arial;
+    color: white;
+}
+
+.paginaevolucionario {
+    font-size: 32px;
+    display: block;
+    text-align: center;
+    font-family: Arial;
+    background-color: darkmagenta;
+    color: red;
+}
+
+/*Estilos CSS página dormammu*/ 
+
+.dormammu {
+    font: 38px italic Arial;
+    background-color: red;
+    border: 15px solid purple;
+    text-align: center;
+    padding: 8px;
+    color: white;
+}
+.dormammuimg1 {
+    background-color: red;
+    border: 15px solid purple;
+    text-align: center;
+    color: white;
+}
+
+.dormammutext {
+    font: 24px italic Arial;
+    color: white;
+}
+
+.paginadormammu {
+    font-size: 32px;
+    display: block;
+    text-align: center;
+    font-family: Arial;
+    background-color: purple;
+    color: red;
+}
+
+/*Estilos CSS página molecular*/ 
+
+.molecular {
+    font: 38px italic Arial;
+    background-color: green;
+    border: 15px solid darkorchid;
+    text-align: center;
+    padding: 8px;
+    color: white;
+}
+.molecularimg1 {
+    background-color: green;
+    border: 15px solid darkorchid;
+    text-align: center;
+}
+
+.moleculartext {
+    font: 24px italic Arial;
+    color: white;
+}
+
+.paginamolecular {
+    font-size: 32px;
+    display: block;
+    text-align: center;
+    font-family: Arial;
+    background-color: green;
+    color: white;
+}
+
+/*Estilos CSS página dracula*/ 
+
+.dracula {
+    font: 38px italic Arial;
+    background-color: red;
+    border: 15px solid white;
+    text-align: center;
+    padding: 8px;
+}
+.draculaimg1 {
+    background-color: red;
+    border: 15px solid white;
+    text-align: center;
+}
+
+.draculatext {
+    font: 24px italic Arial;
+    color: white;
+}
+
+.paginadracula {
+    font-size: 32px;
+    display: block;
+    text-align: center;
+    font-family: Arial;
+    background-color: white;
+}

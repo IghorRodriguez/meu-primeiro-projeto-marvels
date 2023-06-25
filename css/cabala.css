@@ -1,0 +1,60 @@
+body{
+ background-color: black;
+}
+.img {
+    text-align: center;
+    background-color: white;
+    border: 10px solid orangered;
+    padding: 5px;
+    display: inline-block;
+}
+.titulo {
+    font: 36px bold Arial;
+    text-decoration: underline;
+    text-align: center;
+    background-color: orangered;
+    color: white;
+    border: 5px solid black;
+}
+.text { 
+    font: 24px italic Arial;
+    color: white;
+}
+a {
+    display: block;
+    text-align: center;
+    font: 32px italic Arial;
+    color: black;
+    border: 5px solid orangered;
+    background-color: white;
+}
+.conteudo {
+    border: 5px solid white;
+}
+.card {
+    width: 320px;
+    height: 400px;
+    display: inline-block;
+}
+.viloes {
+    display: inline-block;
+    width: 300px;
+    height: 400px;
+    background-color: darkgoldenrod;
+}
+.img {
+    display: inline-block;
+    background-color: darkgoldenrod;
+}
+.name {
+    color:white;
+    background-color: darkgoldenrod;
+    font-size: 24px;
+    text-align: center;
+}
+
+.descricao {
+    text-align: center;
+    font: 20px italic Arial;
+    color: white
+}

@@ -44,7 +44,7 @@
                 <img class="img1" src="img/gamora.jpg" rcset style="width: 300px; height: 300px;">
                 <h1 class="vc2">Gamora</h1>
                 <h1 class="oi2">A Assassina</h1>
-                <p class="text1">Quando criança o Titã louco Thanos matou 50% de toda a população de seu planeta, após esse episódio ele fez questão de a adotar como filha e a criar a ensinando a dominar a arte da chacina dominando mundos e exterminando populações, atualmente ela se tornou menbro dos guardiões e se vingou de seu pai Thanos por o que ele a fez passar.  </p>
+                <p class="text1">Quando criança o Titã louco Thanos matou 50% de toda a população de seu planeta, após esse episódio ele fez questão de a adotar como filha e a criar a ensinando a dominar a arte da chacina dominando mundos e exterminando populações, atualmente ela se tornou membro dos guardiões e se vingou de seu pai Thanos por tudo que ele a fez passar.  </p>
             </div>
         </div>
         <div class="card">
@@ -71,7 +71,7 @@
                 <img class="img1" src="img/drax.jpg" rcset style="width: 300px; height: 300px;">
                 <h1 class="vc3">Drax</h1>
                 <h1 class="oi3">O Destruidor</h1>
-                <p class="text1"></p>
+                <p class="text1">Drax era um ser feliz até o aparecimento do Thanos em seu mundo exterminando metade do seu povo entre eles estavam sua filha e mulher, após esse episódio Drax destina a sua vida a se vingar do Thanos, atualmente ele é membro dos Guardioẽs e destina sua vida salvando a Gálaxia com sua equipe sendo o mais forte dentre eles.</p>
             </div>
         </div>
         <div class="card">
@@ -79,7 +79,7 @@
                 <img class="img1" src="img/mantis.jpg" rcset style="width: 300px; height: 300px;">
                 <h1 class="vc6">Mantis</h1>
                 <h1 class="oi6">A Telepáta</h1>
-                <p class="text1"></p>
+                <p class="text1">Mantis pode sentir e manipular as emoções dos outros. Ela consegue estimular a preguiça, podendo fazer alguém dormir, ou estimular a raiva e etc. Mantis com a sua empatia pode se comunicar com plantas. Mantis é irmã do Senhor das Estrelas e também faz parte dos Guardioẽs sendo se tornando uma das mais queridas do grupo</p>
             </div>
         </div>
         <div class="card">
@@ -87,7 +87,7 @@
                 <img class="img1" src="img/nebulosa.jpg" rcset style="width: 300px; height: 300px;">
                 <h1 class="vc7">Nebulosa</h1>
                 <h1 class="oi7">A Meia Máquina</h1>
-                <p class="text1"></p>
+                <p class="text1">Nebulosa também conhecida como Nebula,é uma ciborgue Luphomoide. Criada como filha de Thanos, a personagem começa a jornada como uma antagonista, guiada pela vingança e pela inveja, principalmente contra Gamora. Atualmente ela e sua irmã Gamora se entenderam e lutam juntas para salvar a galáxia junto dos Guardioẽs</p>
             </div>
         </div>
         <div class="card">
@@ -95,9 +95,9 @@
                 <img class="img1" src="img/adam.jpg" rcset style="width: 300px; height: 300px;">
                 <h1 class="vc9">Adam Warlock</h1>
                 <h1 class="oi9">O Super Poderoso</h1>
-                <p class="text1"></p>
+                <p class="text1">É um humano sintético criado pelo Enclave e possui vários poderes. Absorção de energia, super-força, super-velocidade entre outras habilidades.No grande esquema das coisas, Adam Warlock é simplesmente mais poderoso do que Thanos. Isso também, muito provavelmente, se aplica ao MCU, mesmo se Thanos não estivesse morrido.</p>
             </div>
-        </div>
+        </div> 
     </div>
 </div>
 <br>

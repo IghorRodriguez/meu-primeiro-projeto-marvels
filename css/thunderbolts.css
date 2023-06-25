@@ -1,0 +1,30 @@
+body {
+    background-color: purple;
+}
+.img {
+    text-align: center;
+    background-color: white;
+    border: 10px solid black;
+    padding: 5px;
+    display: inline-block;
+}
+.titulo {
+    font: 36px bolder Arial;
+    text-align: center;
+    background-color: black;
+    color: white;
+    border: 5px solid white;
+
+}
+.text { 
+    font: 24px italic;
+    color: white;
+}
+a {
+    display: block;
+    text-align: center;
+    font: 32px italic Arial;
+    color: black;
+    border: 5px solid black;
+    background-color: white;
+}

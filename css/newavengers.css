@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+.img {
+    text-align: center;
+    background-color: black;
+    border: 10px solid darkgoldenrod;
+    padding: 5px;
+    display: inline-block;
+}
+.titulo {
+    font: 36px bold Arial;
+    text-decoration: underline;
+    text-align: center;
+    background-color: darkgoldenrod;
+    color: white;
+    border: 5px solid black;
+}
+.text { 
+    font: 24px italic Arial;
+    color: white;
+}
+a {
+    display: block;
+    text-align: center;
+    font: 32px italic Arial;
+    color: white;
+    border: 5px solid darkgoldenrod;
+    background-color: black;
+}

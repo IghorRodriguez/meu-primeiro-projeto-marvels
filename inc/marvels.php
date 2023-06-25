@@ -1,5 +1,8 @@
 <h1 class="titulo">The Marvels Comunity</h1>
-<h2 class="subtitulo">By Ighor Rodri</h2><br><br><br>
+<img class="img" src="img/marvel2.jpg" rcset style="width: 1305px; height: 500px;">
+<br><br>
+<h2 class="subtitulo">By Ighor Rodri</h2>
+<br>
 <h2 class="inform">Fique por dentro de todo o universo da Marvel seja conteúdos dos quadrinhos ou UCM.</h2>
 <div class="img">
     <img class="oi1" src="img/igor1.jpg" rcset style="width: 250px; height: 300px;" >
@@ -13,7 +16,7 @@
     <img class=foto src="img/igor5.jpg" rcset style="width: 250px; height: 300px;">
         </div>
 
-    <h2 class="inform">Fique por dentro de nossos conteúdos, se inscreva em nosso site e vire membro da nossa comunidade nerd !</h2><br>
+    <h2 class="inform">Se inscreva em nosso site e vire membro da comunidade The Marvels!</h2><br>
     <br><br>
     <div class="comunidade">
 
@@ -111,7 +114,7 @@
                    
     <div class="card">
         <div class="defensores">
-            <img src="img/defensores.jpg" rcset style="width: 300px; height: 300px;">
+            <img src="img/defenders.jpg" rcset style="width: 300px; height: 300px;">
             <a href="?page=defensores">Defensores</a>
         </div>
     </div>
@@ -154,7 +157,7 @@
             <a href="?page=illuminati">Illuminati</a>
         </div>
     </div>
-        
+
     <div class="card">
         <div class="newavengers">
             <img src="img/newavengers.jpg" rcset style="width: 300px; height: 300px;">
@@ -178,3 +181,6 @@
                 
 </div>
 <br><br>
+
+<h1 class="bonus">MARVEL COMICS COMUNITY</h1>
+<img class="img" src="img/marvel.jpg" rcset style="width: 1250px; height: 500px;">
