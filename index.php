@@ -4,6 +4,7 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <link rel="shortcut icon" href="ico/themarvel.ico" type="image/x-icon">
         <meta charset="utf-8">
         <title>TheMarvels</title>
         <?php

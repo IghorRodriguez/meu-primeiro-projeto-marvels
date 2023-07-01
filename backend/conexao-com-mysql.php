@@ -10,9 +10,9 @@ try {
     // o código que estiver aqui, se houver alguma exceção ele interrompe essa execução
 
     // cria uma instância da classe PDO
-    $conexão = new PDO("mysql:host=$servername;dbname=$databasename", $username, $password);
+    $conexao = new PDO("mysql:host=$servername;dbname=$databasename", $username, $password);
     //configuro o PDO para um modo de exibição de lançamento de exceção 
-    $conexão->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+    $conexao->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
     echo "Conexão bem sucedida";
 }catch(PDOException $excecao) {
     //e inicia a execução do que estiver aqui
