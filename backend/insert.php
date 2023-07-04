@@ -8,7 +8,7 @@ include 'conexao-com-mysql.php';
 
 try {
     $sql = "INSERT INTO newsletters (firstname, lastname, email, telephone)
-    VALUES ( 'Ighor', 'Rodriguez', 'ighormurdock07@gmail.com', '16 991921145')";
+    VALUES ( 'Luiz', 'Antonio', 'ighormurdock07@gmail.com', '16 991921145')";
 
     $conexao->exec($sql);
 

@@ -26,22 +26,22 @@
 
     <div class="campo-de-dados">
         <label for="name">Nome:</label><br>
-        <input id="name" type="text" name="name" velue="" maxlength="30">
+        <input id="name" type="text" name="name" value="" maxlength="30">
     </div>
                 
     <div class="campo-de-dados">
         <label for="last_name">Sobrenome:</label><br>
-        <input id="last_name" type="text" name="last_name" velue="" maxlength="15">
+        <input id="last_name" type="text" name="last_name" value="" maxlength="15">
     </div>
 
     <div class="campo-de-dados">
         <label for="email">Email:</label><br>
-        <input id="email" type="text" name="email" velue="" maxlength="30">
+        <input id="email" type="text" name="email" value="" maxlength="30">
     </div>
 
     <div class="campo-de-dados">
         <label for="telephone">Telefone:</label><br>
-        <input id="telephone" type="text" name="telephone" velue="" maxlength="30">
+        <input id="telephone" type="text" name="telephone" value="" maxlength="30">
     </div><br>
 
     <div class="botao-de-confirmacao">
